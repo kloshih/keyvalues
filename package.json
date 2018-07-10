@@ -1,0 +1,28 @@
+{
+  "name": "keyvalues",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "keywords": [
+    "text",
+    "string",
+    "strings",
+    "stringify",
+    "dump",
+    "parse",
+    "format",
+    "inflection"
+  ],
+  "author": "Lo Shih <kloshih@gmail.com>",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^1.4.1"
+  }
+}
