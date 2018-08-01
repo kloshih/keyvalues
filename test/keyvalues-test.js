@@ -8,7 +8,7 @@
 var assert = require('assert');
 
 var kv = require('../lib/keyvalues.js');
-var log = require('log');
+var log = require('logsync');
 
 var data = [
   { a:1, b:{c:{d:2}, e:[1, {f:[2]}, {f:[3]}], g:0, h:undefined, i:null}, j:4 },

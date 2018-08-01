@@ -6,7 +6,7 @@
  */
 
 var assert = require('assert');
-var log = require('log');
+var log = require('logsync');
 var kv = require('../lib/keyvalues.js');
 var selector = require('../lib/selector.js');
 
